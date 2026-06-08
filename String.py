@@ -111,11 +111,8 @@
 #print("El correo pertenece a la ESPOL?",pertenencia)
 
 #strip()---->eliminar caracteres a la izq y a la derecha de una cadena
-chupalo="    viva la huevada     "
-delete=chupalo.strip()
-print(delete)
 
-fusilero="aaaaa me machetearon, me destaparon el cerebro, me apuñaliaron, mire la evidencia aaaaaaaaaaaaaaaaaaa"
+fusilero="hola que tal"
 aver=fusilero.strip("a")
 print(aver)
 
